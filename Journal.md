@@ -13,7 +13,7 @@ The parts that I’ve looked into are:
 
 - [XIAO ESP32 S3](https://www.aliexpress.com/item/1005007084388623.html)
 - [OLED RGB display](https://www.aliexpress.com/item/1005004794240558.html)
-- [LIPO Battery 3.7V 1500mAH 103048](https://www.aliexpress.com/item/1005008218024646.html)
+- [LIPO Battery 3.7V 2000mAH 103450](https://www.aliexpress.com/item/3256808031709894.html)
 - [SHT30 Temperature And Humidity Sensor](https://www.adafruit.com/product/5064)
 - [Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor - JST PH 2mm](https://www.adafruit.com/product/4026)
 - [Adafruit BH1750 Light Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/4681)
@@ -27,4 +27,10 @@ The parts that I’ve looked into are:
 - Adafruit STEMMA Soil Sensor: $7.50
 - Adafruit BH1750 Light Sensor: $4.50
 
-**Total time spent: 4h**
+My project roadmap ->
+![Roadmap](img/notion.png)
+
+I also made some prototype sketches here.
+![Prototype Sketch 1](img/features.jpeg)
+![Prototype Sketch 2](img/features2.jpeg)
+**Total time spent: 5.5h**
