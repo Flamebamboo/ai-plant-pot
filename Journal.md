@@ -35,12 +35,19 @@ I also made some prototype sketches here.
 ![Prototype Sketch 2](img/features2.jpeg)
 **Total time spent: 5.5h**
 
-
 # June 21th: Understanding more about the parts + design schematics
 
 I just found out that to charge the battery effectively it will require a battery charger module called TP4056. TP4056 has two different variations with protection IC and without protection. Without protection IC it only protects overcharge, with protection IC it protects overdischarge and over current protection.
 
-I imported the OPL libary for my XIAO ESP32 S3 into KICad and I also added some other pins and batttery module and started wiring for it.. Except I have no clue how to do this.... 
+I imported the OPL libary for my XIAO ESP32 S3 into KICad and I also added some other pins and batttery module and started wiring for it.. Except I have no clue how to do this....
 
-**Total time spent: 2.5h**
+After some research I found out that the battery can directly connect to XIAO ESP32 from the -BAT and +BAT. I intend to change the ESP32 S3 to C6 since I need an MCU that supports Thread which then allows me to integrate with IOS nicely.
 
+- XIAO ESP32 S3 -> XIAO ESP32 C6 (Thread support )
+- LIPO Battery 3.7V 1500mAH 103048 -> LIPO Battery 3.7V 2000mAH (longer battery life)
+- SHT30 Temperature And Humidity Sensor -> SHT40 Temperature And Humidity Sensor (apparently better and $2 cheaper)
+
+I have no idea if this is correct or what... 😞
+![schematic_1](img/schematic_1.png)
+
+**Total time spent: 3.5h**
