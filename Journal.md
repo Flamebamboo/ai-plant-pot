@@ -34,3 +34,13 @@ I also made some prototype sketches here.
 ![Prototype Sketch 1](img/features.jpeg)
 ![Prototype Sketch 2](img/features2.jpeg)
 **Total time spent: 5.5h**
+
+
+# June 21th: Understanding more about the parts + design schematics
+
+I just found out that to charge the battery effectively it will require a battery charger module called TP4056. TP4056 has two different variations with protection IC and without protection. Without protection IC it only protects overcharge, with protection IC it protects overdischarge and over current protection.
+
+I imported the OPL libary for my XIAO ESP32 S3 into KICad and I also added some other pins and batttery module and started wiring for it.. Except I have no clue how to do this.... 
+
+**Total time spent: 2.5h**
+
