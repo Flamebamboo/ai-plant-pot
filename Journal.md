@@ -53,9 +53,12 @@ I have no idea if this is correct or what... 😞
 **Total time spent: 3.5h**
 
 # June 22th: Applying footprints
+
 Oh boy... This one was SUPER SUPER confusing for me. I made some changes for the parts to places more "trusted" with well documented parts instead of going to AliExp, the parts like 1.5 inch OLED from waveshare raises the prices abit (hope its okay for Hack Club) because as a beginner who barely have any electronics knowledge I dont understand what schematics symbols to add, what in the world is footprints, and what these parts footprints is. I read the docs aswell as back and fourth chatting with co pilot to assist me making sure that I assigned the correct footprint for each parts.
 
+I hope this is correct ;-;
+[footprints](img/footprints.png)
+
+me chatting with copilot for an hour? xD
+[chatcopilot](img/chatcopilot.png)
 **Total time spent: 2h**
-
-
-
