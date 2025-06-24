@@ -57,8 +57,22 @@ I have no idea if this is correct or what... 😞
 Oh boy... This one was SUPER SUPER confusing for me. I made some changes for the parts to places more "trusted" with well documented parts instead of going to AliExp, the parts like 1.5 inch OLED from waveshare raises the prices abit (hope its okay for Hack Club) because as a beginner who barely have any electronics knowledge I dont understand what schematics symbols to add, what in the world is footprints, and what these parts footprints is. I read the docs aswell as back and fourth chatting with co pilot to assist me making sure that I assigned the correct footprint for each parts.
 
 I hope this is correct ;-;
-[footprints](img/footprints.png)
+![footprints](img/footprints.png)
 
 me chatting with copilot for an hour? xD
-[chatcopilot](img/chatcopilot.png)
+![chatcopilot](img/chatcopilot.png)
+**Total time spent: 2h**
+
+# June 25th: Research Routing the PCB
+
+12AM - 2:16 AM
+
+I finally got into routing the PCB. After going through the documentations for the esp32 I decided to remove the 1x2 connecting pin for the battery because apparently I wont be needing the PH2.0 plug rather just cutting it off and directly solder to the XIAO smd pads! (The MCU schematic does not show 15 and 16 pins for me to connect the wire too so I could'nt figure out how to use the connectors ;-;)
+
+![Plan](img/plan.png)
+
+![PCB](img/planter_pcb.png)
+
+I also used ground fill for the first time :) hope I did it right
+
 **Total time spent: 2h**
