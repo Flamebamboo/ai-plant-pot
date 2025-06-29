@@ -77,6 +77,15 @@ I also used ground fill for the first time :) hope I did it right
 
 **Total time spent: 2h**
 
+# June 27th: I was filming a vlog for day 1:
+
+Youtube [YouTube Short](https://youtube.com/shorts/ty__Sh_dJmw?si=zp3qn9vOzwV2mKUi)
+Scripting, Filming, ediitng took a while and I cant remember the time exactly...
+
+![edit](img/edit.jpg)
+
+**Total time spent: 5h**
+
 # June 28th: allocating components and 3D sketch
 
 Researching on the ideal size of the pot thickness, the recomendded volume for my Monsterra plant and yeah...
@@ -88,3 +97,11 @@ I started sketching the base of the planter, taking account into the water drain
 The outer dimensions for this planter will be 101x101x182mm and the inner case (inner pot where the soil and plant will go) will be 93x93x101. the empty space at the bottom as shown in the sketch will be allocated for the electrical components aswell as a funnel and holes for the water to flow out.
 
 **Total time spent: 3h**
+
+# June 29th: Fusion 3D Modelling
+
+I stated jumping into fusion and start to create the outer and inner case. I also make sure to add a cutout for the OLED to sit in... But then I just realised I need to make the gaps bigger and make the OLED casing more compact and more integrated.
+
+![Model](img/fusion.jpg)
+
+**Total time spent: 4h**
