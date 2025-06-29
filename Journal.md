@@ -76,3 +76,15 @@ I finally got into routing the PCB. After going through the documentations for t
 I also used ground fill for the first time :) hope I did it right
 
 **Total time spent: 2h**
+
+# June 28th: allocating components and 3D sketch
+
+Researching on the ideal size of the pot thickness, the recomendded volume for my Monsterra plant and yeah...
+
+I started sketching the base of the planter, taking account into the water drainage and where the electronic components will go
+
+![Sketch](img/sketchingbase.png)
+
+The outer dimensions for this planter will be 101x101x182mm and the inner case (inner pot where the soil and plant will go) will be 93x93x101. the empty space at the bottom as shown in the sketch will be allocated for the electrical components aswell as a funnel and holes for the water to flow out.
+
+**Total time spent: 3h**
