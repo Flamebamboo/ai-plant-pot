@@ -105,3 +105,22 @@ I stated jumping into fusion and start to create the outer and inner case. I als
 ![Model](img/fusion.jpg)
 
 **Total time spent: 4h**
+
+# July 1: Fusion 3D Modelling the enclosure for OLED
+
+This got me burntout...
+
+![M](img/oledenclosure_1.png)
+![M](img/oledenclosure_2.png)
+
+I spent 11pm - 5:30 AM trying to figure out how to use these new tools i've never used before such as project tools, offsets.
+
+Then I had to figure out how to somehow attach the enclosure to the base by joining it (maybe?)...
+
+I kept reiterating and doing the same thing trying to figure it out.
+
+I ended up revamping and start from scratch a ton of times!
+
+still no progress at this point.
+
+**Total time spent: 6h 30m**
