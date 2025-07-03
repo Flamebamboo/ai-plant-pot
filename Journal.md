@@ -124,3 +124,16 @@ I ended up revamping and start from scratch a ton of times!
 still no progress at this point.
 
 **Total time spent: 6h 30m**
+
+# July 2: Released day 2 video
+
+I filmed, edited a content for day 2 which was for the work I did back in June 21st
+
+![](img/contenttable.png)
+
+here's the video [youtube](https://youtube.com/shorts/amHQEBcOXe8?si=QgyBYHKR3km967V8), [instagram](https://www.instagram.com/reel/DLnImsxTx7t/)
+
+# July 3: 3d modelling and vlog.
+
+Today's goal is to be consistent and manage my time properly.
+Make sure that I can post a video for day 2 and also put in the work for this project.
