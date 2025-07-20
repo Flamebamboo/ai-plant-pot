@@ -146,3 +146,7 @@ I have given up for a while because I was burntout from using Fusion, but a burs
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa53e2fe89a1229c0f8706c38fd944c0cd261c19_screenshot_2025-07-20_at_12.07.27___pm.png)
 
 
+#July 20:
+Continue working on the inner pot with 5 drainage holes.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c8e5a6df24308861f5c0f8dce3e03b8ed0520e9d_screenshot_2025-07-20_at_3.21.53___pm.png)
