@@ -138,15 +138,20 @@ here's the video [youtube](https://youtube.com/shorts/amHQEBcOXe8?si=QgyBYHKR3km
 Today's goal is to be consistent and manage my time properly.
 Make sure that I can post a video for day 2 and also put in the work for this project.
 
-
 # July 19:
+
 I have given up for a while because I was burntout from using Fusion, but a burst of motivation finally came back and it is time. I completed the enclosure with snap fit perfectly. The enclosure is seperated with back, middle, front. "Back" is combined with the main base body and "Mid" is combined to "Back" with some chamfer for easy fit. The "Front" Part is standalone with a 0.4mm of fit deviation that can later be attached directly from outside the main base.
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76fc13cc2224cfb445e871cb61fff726f0c4a1f6_screenshot_2025-07-20_at_12.08.21___pm.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5430dcdee99b0d43f3036531279c17ff9b9f915b_screenshot_2025-07-20_at_12.08.05___pm.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa53e2fe89a1229c0f8706c38fd944c0cd261c19_screenshot_2025-07-20_at_12.07.27___pm.png)
 
+# July 20:
 
-#July 20:
 Continue working on the inner pot with 5 drainage holes.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c8e5a6df24308861f5c0f8dce3e03b8ed0520e9d_screenshot_2025-07-20_at_3.21.53___pm.png)
+
+# July 23:
+
+Today I worked on redesigning the edge cut for the pcb to fit the enclosure base nicely
+![](img/pcb23july.png)
