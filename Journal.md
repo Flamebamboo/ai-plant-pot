@@ -155,3 +155,4 @@ Continue working on the inner pot with 5 drainage holes.
 
 Today I worked on redesigning the edge cut for the pcb to fit the enclosure base nicely
 ![](img/pcb23july.png)
+![](img/USBCPort.png)
