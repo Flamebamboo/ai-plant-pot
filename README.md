@@ -7,4 +7,4 @@
 - [LIPO Battery 3.7V 2000mAH](https://www.aliexpress.com/item/3256808031709894.html)
 - [Adafruit SHT40 Temperature And Humidity Sensor](https://www.adafruit.com/product/4885) $5.95
 - [Adafruit STEMMA Soil Sensor](https://www.adafruit.com/product/4026) $7.50
-- [Adafruit BH1750 Light Sensor](https://www.adafruit.com/product/4681) $4.50
+
