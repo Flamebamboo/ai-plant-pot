@@ -197,8 +197,8 @@ I also designed a venting holes for proper airflow so that the DHT22 sensors can
 
 TODO:
 
-- Create battery holder in the housing.
-- Create a soild sensor hole from the bottom to insert it
+Create battery holder in the housing.
+DONE: Create a soild sensor hole from the bottom to insert it
 
 - Final design polish model, BOM & github repo etc
 
@@ -213,4 +213,12 @@ The holes on the soil sensor are nicely projected to the Plate.
 
 The screws to attach these are M2.6 \* 4mm.
 
-**Total time spent: 4h**
+This afternoon I added some snap fit features for the base and inner pot to attach
+
+![](img/InnerPotSnap.png)
+![](img/SnapFit.png)
+
+- It is 10mmx2mmx3mm in dimension with a taper angle of 45 degrees.
+- The snap fit on the base has a 0.2mm offset in outer dimension to make it slightly bigger and easier to slide in. It also has a 0.6mm chamfer on the top side.
+
+**Total time spent: 6h**
