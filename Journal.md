@@ -228,4 +228,13 @@ Here is the final preview of this project!
 ![](img/backpreview.png)
 ![](img/frontpreview.png)
 
-**Total time spent: 6h30m**
+There is 4 seperate CAD files to be printed:
+
+1. The outer enclosure
+2. The inner pot
+3. Soil plate
+4. OLED plate
+
+![](img/Disassembled.png)
+
+**Total time spent: 7h**
