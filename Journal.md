@@ -5,6 +5,8 @@ description: "smart planter with cute expressions! it has soil reading, surround
 created_at: "2025-06-20"
 ---
 
+## Total hours spent on design stage: 50.5 Hours
+
 # June 20th: Gettin started with research
 
 The first thing was asking a nerd friend who could give me some pointers how to get started on this project. This is my first custom project and I literally have no experience with electronics except making a MacroPad with a guide at hand. So the first thing I asked him was what parts I will be needing and he told me to do some research first on what features I will be needing for the planter. I moved on looking at some other commercial smart planter and this one is really cool called Ivy, it has temperature, soil moisture, ambient light, water level, touch and vibration?!? sensors. But as a noob I decided to keep it simple and cheap. so after some brainstorming I’m going with temperature, soil moisture, light, and motion sensors.
@@ -84,7 +86,7 @@ Scripting, Filming, ediitng took a while and I cant remember the time exactly...
 
 ![edit](img/edit.jpg)
 
-**Total time spent: 5h**
+**Total Time: Uncounted for this project**
 
 # June 28th: allocating components and 3D sketch
 
@@ -92,7 +94,7 @@ Researching on the ideal size of the pot thickness, the recomendded volume for m
 
 I started sketching the base of the planter, taking account into the water drainage and where the electronic components will go
 
-![Sketch](img/sketchingbase.png)
+![Sketch](img/sketchingbase.jpeg)
 
 The outer dimensions for this planter will be 101x101x182mm and the inner case (inner pot where the soil and plant will go) will be 93x93x101. the empty space at the bottom as shown in the sketch will be allocated for the electrical components aswell as a funnel and holes for the water to flow out.
 
@@ -133,11 +135,7 @@ I filmed, edited a content for day 2 which was for the work I did back in June 2
 
 here's the video [youtube](https://youtube.com/shorts/amHQEBcOXe8?si=QgyBYHKR3km967V8), [instagram](https://www.instagram.com/reel/DLnImsxTx7t/)
 
-# July 3: 3d modelling and vlog.
-
-Today's goal is to be consistent and manage my time properly.
-Make sure that I can post a video for day 2 and also put in the work for this project.
-**Total time spent: Unknown**
+**Total Time: Uncounted for this project**
 
 # July 19:
 
