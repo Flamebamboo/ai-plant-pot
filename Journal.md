@@ -203,3 +203,14 @@ TODO:
 - Final design polish model, BOM & github repo etc
 
 Finish? Hopefully
+
+This morning I designed the compartment to attach soil sensor right at the inner pot.
+![](img/SoilSensorCompartmentBack.png)
+![](img/SoilSensorCompartmentFront.png)
+The soil sensor plate are inspired by some smart planter design I found
+![](img/Plate.png)
+The holes on the soil sensor are nicely projected to the Plate.
+
+The screws to attach these are M2.6 \* 4mm.
+
+**Total time spent: 4h**
