@@ -197,7 +197,7 @@ I also designed a venting holes for proper airflow so that the DHT22 sensors can
 
 TODO:
 
-Create battery holder in the housing.
+DONE: Create battery holder in the housing.
 DONE: Create a soild sensor hole from the bottom to insert it
 
 - Final design polish model, BOM & github repo etc
@@ -221,4 +221,11 @@ This afternoon I added some snap fit features for the base and inner pot to atta
 - It is 10mmx2mmx3mm in dimension with a taper angle of 45 degrees.
 - The snap fit on the base has a 0.2mm offset in outer dimension to make it slightly bigger and easier to slide in. It also has a 0.6mm chamfer on the top side.
 
-**Total time spent: 6h**
+Created a simple battery holder
+![](img/BatteryMount.png)
+
+Here is the final preview of this project!
+![](img/backpreview.png)
+![](img/frontpreview.png)
+
+**Total time spent: 6h30m**
