@@ -1,11 +1,11 @@
-Reference,Qty,Value,Footprint,Datasheet,Description,Link,Price
-XIAO_ESP32_C6,1,XIAO-ESP32-C6,Library:XIAO-ESP32C6-SMD,~,XIAO ESP32 C6,https://www.aliexpress.com/item/3256807155424151.html,14.23
-OLED_1.5IN,1,1.5inch_RGB_OLED,Module:1.5inch_RGB_OLED,~,1.5 inch OLED display,https://www.waveshare.com/product/displays/oled/oled-3/1.5inch-rgb-oled-module.html,16.59
-LIPO_BATT_2000mAh,1,LIPO_3.7V_2000mAh,Battery:LiPo_3.7V_2000mAh,~,LIPO Battery 3.7V 2000mAH,https://www.aliexpress.com/item/3256808031709894.html,3.86
-DHT22_AM2302,1,AM2302,Sensor:ASAIR_AM2302_P2.54mm_Vertical,http://akizukidenshi.com/download/ds/aosong/AM2302.pdf,DHT22 Temperature and Humidity Sensor,https://www.aliexpress.com/item/2251832573586959.html,1.89
-SOIL_SENSOR,1,Soil_Moisture_Sensor,Sensor:Soil_Moisture_3-Pin,~,Soil Sensor,https://www.digikey.my/en/products/detail/adafruit-industries-llc/4026/9745252,7.50
-SCREW_M2_8MM,4,M2×8mm_Screw,Hardware:M2x8mm,~,M2 × 8mm Screws,https://www.aliexpress.com/item/2255800888609493.html,1.59
-SCREW_M2.6_4MM,4,M2.6×4mm_Screw,Hardware:M2.6x4mm,~,M2.6 × 4mm Screws,https://www.aliexpress.com/item/2255800795894953.html,1.29
-HDR_2PIN,1,PinHeader_1x02_P2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,2.54mm Pin Header Vertical (Soil moisture 2 pin),https://www.aliexpress.us/item/2255801012106911.html,1.28
-HDR_7PIN,1,PinHeader_1x07_P2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,~,2.54mm Pin Header Vertical (OLED 7 pin),https://www.aliexpress.us/item/2255801012106911.html,1.46
-JST_PH_CABLE,1,JST_PH_Cable_20cm,Connector:JST_PH_2.0mm,~,JST PH 2.0mm Male Female Plug Jack Connector Cable 20 cm,https://www.aliexpress.us/item/3256803204628036.html,1.74
+Reference,Qty,Value,Footprint,Description,Link,Price
+XIAO_ESP32_C6,1,XIAO-ESP32-C6,Library:XIAO-ESP32C6-SMD,XIAO ESP32 C6,https://www.aliexpress.com/item/3256807155424151.html,14.23
+OLED_1.5IN,1,1.5inch_RGB_OLED,Module:1.5inch_RGB_OLED,1.5 inch OLED display,https://www.waveshare.com/product/displays/oled/oled-3/1.5inch-rgb-oled-module.html,16.59
+LIPO_BATT_2000mAh,1,LIPO_3.7V_2000mAh,Battery:LiPo_3.7V_2000mAh,LIPO Battery 3.7V 2000mAH,https://www.aliexpress.com/item/3256808031709894.html,3.86
+DHT22_AM2302,1,AM2302,Sensor:ASAIR_AM2302_P2.54mm_Vertical,DHT22 Temperature and Humidity Sensor,https://www.aliexpress.com/item/2251832573586959.html,1.89
+SOIL_SENSOR,1,Soil_Moisture_Sensor,Sensor:Soil_Moisture_3-Pin,Soil Sensor,https://www.digikey.my/en/products/detail/adafruit-industries-llc/4026/9745252,7.50
+SCREW_M2_8MM,1,M2×8mm_Screw,Hardware:M2x8mm,M2 × 8mm Screws,https://www.aliexpress.com/item/2255800888609493.html,1.59
+SCREW_M2.6_4MM,1,M2.6×4mm_Screw,Hardware:M2.6x4mm,M2.6 × 4mm Screws,https://www.aliexpress.com/item/2255800795894953.html,1.29
+HDR_2PIN,1,PinHeader_1x02_P2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,2.54mm Pin Header Vertical (Soil moisture 2 pin),https://www.aliexpress.us/item/2255801012106911.html,1.28
+HDR_7PIN,1,PinHeader_1x07_P2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,2.54mm Pin Header Vertical (OLED 7 pin),https://www.aliexpress.us/item/2255801012106911.html,1.46
+JST_PH_CABLE,1,JST_PH_Cable_20cm,Connector:JST_PH_2.0mm,JST PH 2.0mm Male Female Plug Jack Connector Cable 20 cm,https://www.aliexpress.us/item/3256803204628036.html,1.74
