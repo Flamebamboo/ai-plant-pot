@@ -8,11 +8,16 @@ The reason I built this project is because I want my baby Monstera plant to be h
 https://youtube.com/shorts/UrM3IPHNWJw?si=KoA7QMxdPpVGsMg
 I'm definitely planning to create long form yt vid for this project when it's fully completed :)
 
+
+> **⚠️ Warning:** I will be writing the firmware when the MCU arrive and I'm planning to create a Swift or React Native app for this smart planter to control and customise the planter features! :)) .
+> 
 ![](img/backpreview.png)
 ![](img/frontpreview.png)
 ![](img/Disassembled.png)
 ![](img/hole.png)
 ![](img/UpdateSchematic2.png)
+
+
 
 ## Bill of Materials (BOM)
 
