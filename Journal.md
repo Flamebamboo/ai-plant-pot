@@ -168,7 +168,7 @@ Today I made changes to the BOM because I removed some sensors and changed it to
 ![](img/UpdateSchematic.png)
 
 I finally realised that I've used the wrong symbols in the schematic for Xiao ESP32 C6 it should be the SMD one so I have the pins for BAT and GND!!!! now I can finally connect the ph 2.0 connector
-![](img/UpdateSchematic.png)
+![](img/UpdateSchematic2.png)
 **Total time spent: 2h**
 
 # July 27:

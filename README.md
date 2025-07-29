@@ -2,7 +2,18 @@
 
 This project is an emotive smart planter that plays an animation through its OLED screen depending on the conditions from the soil moisture, temperature & humidity sensors. It's also designed for portability with a 2000 MAH lipo battery and easy battery charging with USB type C from the ESP32 C6 from xiao. With this microcontroller it supports HomeKit and battery charging built it which i'm really excited about. The CAD design of this planter contains 2 seprate compartments. The inner pot and the outer pot. The inner pot has a snap fit design and drainage holes for water to safely exit throughout the pot. I will add an safety precautious by adding waterproof silicone for the 3d printed parts just in case if there will be leaks that can cause danger to the electronics on the housing of the outer case.
 
-The reason I built this project is because I want my baby monstera plant to be healthy on my desk! and it would be a great addition as decoration too!
+The reason I built this project is because I want my baby Monstera plant to be healthy on my desk! and it would also be a great addition as decoration too!
+
+You can find short vlogs on my Youtube channel or my brand new Instagram account
+![](https://youtube.com/shorts/UrM3IPHNWJw?si=KoA7QMxdPpVGs_Mg)
+
+I'm definitely planning to create long form yt vid for this project when it is fully completed :)
+
+![](img/backpreview.png)
+![](img/frontpreview.png)
+![](img/Disassembled.png)
+![](img/hole.png)
+![](img/UpdateSchematic2.png)
 
 ## Bill of Materials (BOM)
 
