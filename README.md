@@ -4,10 +4,9 @@ This project is an emotive smart planter that plays an animation through its OLE
 
 The reason I built this project is because I want my baby Monstera plant to be healthy on my desk! and it would also be a great addition as decoration too!
 
-You can find short vlogs on my Youtube channel or my brand new Instagram account
-![](https://youtube.com/shorts/UrM3IPHNWJw?si=KoA7QMxdPpVGs_Mg)
-
-I'm definitely planning to create long form yt vid for this project when it is fully completed :)
+### Additionaly I've made some short vlogs on my Youtube channel and my brand new Instagram account
+https://youtube.com/shorts/UrM3IPHNWJw?si=KoA7QMxdPpVGsMg
+I'm definitely planning to create long form yt vid for this project when it's fully completed :)
 
 ![](img/backpreview.png)
 ![](img/frontpreview.png)
